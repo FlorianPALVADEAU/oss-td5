@@ -1,6 +1,6 @@
 {
   "name": "palvadeau_florian_osstd-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Super library to generate random grades !",
   "main": "index.js",
   "scripts": {
