@@ -1,0 +1,23 @@
+{
+  "name": "palvadeau_florian_osstd-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FlorianPALVADEAU/oss-td5.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FlorianPALVADEAU/oss-td5/issues"
+  },
+  "homepage": "https://github.com/FlorianPALVADEAU/oss-td5#readme",
+  "devDependencies": {
+    "eslint": "^8.44.0",
+    "jest": "^29.6.1"
+  }
+}
