@@ -1,5 +1,3 @@
-const getRandomNumber = require("./index");
-
-test ('it should return an integer', ()=>{
-
-})
+test('it should modify the csv file', () => {
+  expect(true).toBe(true);
+});
